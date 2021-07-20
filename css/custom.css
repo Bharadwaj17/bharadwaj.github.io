@@ -54,4 +54,18 @@ body {
 	position: fixed;
 	top: 0;
 	width: 100%;
-  }
+}
+
+.testimonial {
+	padding: 10px 40px;
+	font-size: medium;
+	font-style: italic;
+	justify-content: space-evenly;
+	margin-bottom: 20px;
+}
+
+.testimonial-name {
+	margin-right: 25px !important;
+	font-size: large;
+	font-style: normal;
+}
